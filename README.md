@@ -28,7 +28,7 @@ Below we provide examples on how to run CALIP\_FS on OxfordsPets.
 - 8 shots: `bash scripts/fewshots.sh oxford_pets 8`
 - 16 shots: `bash scripts/fewshots.sh oxford_pets 16`
 
-### Zero-Shot CLIP
+### Zero-Shot CALIP
 
 See `CALIP/scripts/zeroshot.sh` for using CALIP\_PF(CALIP with parameter-free attention).
 
